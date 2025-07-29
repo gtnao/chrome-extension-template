@@ -10,7 +10,7 @@
   - Automatic manifest generation and optimization
 - ⚛️ **React** - Build interactive popup UI with modern React
 - 📘 **TypeScript** - Full type safety across popup and content scripts
-- 🎨 **Mantine UI** - Pre-configured with Mantine (feel free to swap with your preferred UI library)
+- 🎨 **[Mantine UI](https://ui.mantine.dev/)** - Pre-configured with Mantine (feel free to swap with your preferred UI library)
 - 🔒 **Type-safe messaging** - Communication between popup and content scripts with type safety (see `src/shared/messaging.ts`)
 
 ## Example Extension
